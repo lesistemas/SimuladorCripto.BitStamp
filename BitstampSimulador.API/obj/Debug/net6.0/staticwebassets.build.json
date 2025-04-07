@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "jRm6Tp/1jS7iJCvvb0AURWwP7sPfP9UXD265bQqA0Nk=",
+  "Source": "BitstampSimulador.API",
+  "BasePath": "_content/BitstampSimulador.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

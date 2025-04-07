@@ -1,0 +1,15 @@
+C:\Users\le_si\Documents\Projetos\Testes\BitstampSimulador\BitstampSimulador.Infrastructure\bin\Debug\net6.0\BitstampSimulador.Infrastructure.deps.json
+C:\Users\le_si\Documents\Projetos\Testes\BitstampSimulador\BitstampSimulador.Infrastructure\bin\Debug\net6.0\BitstampSimulador.Infrastructure.dll
+C:\Users\le_si\Documents\Projetos\Testes\BitstampSimulador\BitstampSimulador.Infrastructure\bin\Debug\net6.0\BitstampSimulador.Infrastructure.pdb
+C:\Users\le_si\Documents\Projetos\Testes\BitstampSimulador\BitstampSimulador.Infrastructure\bin\Debug\net6.0\BitstampSimulador.Domain.dll
+C:\Users\le_si\Documents\Projetos\Testes\BitstampSimulador\BitstampSimulador.Infrastructure\bin\Debug\net6.0\BitstampSimulador.Domain.pdb
+C:\Users\le_si\Documents\Projetos\Testes\BitstampSimulador\BitstampSimulador.Infrastructure\obj\Debug\net6.0\BitstampSimulador.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\le_si\Documents\Projetos\Testes\BitstampSimulador\BitstampSimulador.Infrastructure\obj\Debug\net6.0\BitstampSimulador.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\le_si\Documents\Projetos\Testes\BitstampSimulador\BitstampSimulador.Infrastructure\obj\Debug\net6.0\BitstampSimulador.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\le_si\Documents\Projetos\Testes\BitstampSimulador\BitstampSimulador.Infrastructure\obj\Debug\net6.0\BitstampSimulador.Infrastructure.AssemblyInfo.cs
+C:\Users\le_si\Documents\Projetos\Testes\BitstampSimulador\BitstampSimulador.Infrastructure\obj\Debug\net6.0\BitstampSimulador.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\le_si\Documents\Projetos\Testes\BitstampSimulador\BitstampSimulador.Infrastructure\obj\Debug\net6.0\Bitstamp.89CB941D.Up2Date
+C:\Users\le_si\Documents\Projetos\Testes\BitstampSimulador\BitstampSimulador.Infrastructure\obj\Debug\net6.0\BitstampSimulador.Infrastructure.dll
+C:\Users\le_si\Documents\Projetos\Testes\BitstampSimulador\BitstampSimulador.Infrastructure\obj\Debug\net6.0\refint\BitstampSimulador.Infrastructure.dll
+C:\Users\le_si\Documents\Projetos\Testes\BitstampSimulador\BitstampSimulador.Infrastructure\obj\Debug\net6.0\BitstampSimulador.Infrastructure.pdb
+C:\Users\le_si\Documents\Projetos\Testes\BitstampSimulador\BitstampSimulador.Infrastructure\obj\Debug\net6.0\ref\BitstampSimulador.Infrastructure.dll

@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitstampSimulador.Console", "BitstampSimulador.Console\BitstampSimulador.Console.csproj", "{B7D162C3-1981-41F2-8F02-B970A3211519}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitstampSimulador.API", "BitstampSimulador.API\BitstampSimulador.API.csproj", "{21369F7A-8687-45E3-838B-8D0115CD11D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitstampSimulador.Application", "BitstampSimulador.Application\BitstampSimulador.Application.csproj", "{43626F25-6789-4A39-BF1B-7BAA1F07F304}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitstampSimulador.Infrastructure", "BitstampSimulador.Infrastructure\BitstampSimulador.Infrastructure.csproj", "{D12F7435-6806-4CD5-8515-CF5626782EEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitstampSimulador.Domain", "BitstampSimulador.Domain\BitstampSimulador.Domain.csproj", "{C1469DC1-DE3D-48BF-8942-80415A57A391}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitstampSimulador.Tests", "BitstampSimulador.Tests\BitstampSimulador.Tests.csproj", "{EE820E95-8655-4C0F-88E2-ADBD655035CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7D162C3-1981-41F2-8F02-B970A3211519}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7D162C3-1981-41F2-8F02-B970A3211519}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7D162C3-1981-41F2-8F02-B970A3211519}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7D162C3-1981-41F2-8F02-B970A3211519}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21369F7A-8687-45E3-838B-8D0115CD11D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21369F7A-8687-45E3-838B-8D0115CD11D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21369F7A-8687-45E3-838B-8D0115CD11D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21369F7A-8687-45E3-838B-8D0115CD11D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43626F25-6789-4A39-BF1B-7BAA1F07F304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43626F25-6789-4A39-BF1B-7BAA1F07F304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43626F25-6789-4A39-BF1B-7BAA1F07F304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43626F25-6789-4A39-BF1B-7BAA1F07F304}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D12F7435-6806-4CD5-8515-CF5626782EEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D12F7435-6806-4CD5-8515-CF5626782EEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D12F7435-6806-4CD5-8515-CF5626782EEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D12F7435-6806-4CD5-8515-CF5626782EEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1469DC1-DE3D-48BF-8942-80415A57A391}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1469DC1-DE3D-48BF-8942-80415A57A391}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1469DC1-DE3D-48BF-8942-80415A57A391}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1469DC1-DE3D-48BF-8942-80415A57A391}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE820E95-8655-4C0F-88E2-ADBD655035CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE820E95-8655-4C0F-88E2-ADBD655035CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE820E95-8655-4C0F-88E2-ADBD655035CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE820E95-8655-4C0F-88E2-ADBD655035CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

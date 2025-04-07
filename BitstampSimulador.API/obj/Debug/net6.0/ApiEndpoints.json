@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "SimulacaoController",
+    "Method": "Post",
+    "RelativePath": "Simulacao",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "BitstampSimulador.API.Models.RequisicaoSimulacao",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

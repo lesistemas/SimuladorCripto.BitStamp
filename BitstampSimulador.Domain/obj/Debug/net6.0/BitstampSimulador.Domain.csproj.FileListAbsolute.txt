@@ -1,0 +1,12 @@
+C:\Users\le_si\Documents\Projetos\Testes\BitstampSimulador\BitstampSimulador.Domain\bin\Debug\net6.0\BitstampSimulador.Domain.deps.json
+C:\Users\le_si\Documents\Projetos\Testes\BitstampSimulador\BitstampSimulador.Domain\bin\Debug\net6.0\BitstampSimulador.Domain.dll
+C:\Users\le_si\Documents\Projetos\Testes\BitstampSimulador\BitstampSimulador.Domain\bin\Debug\net6.0\BitstampSimulador.Domain.pdb
+C:\Users\le_si\Documents\Projetos\Testes\BitstampSimulador\BitstampSimulador.Domain\obj\Debug\net6.0\BitstampSimulador.Domain.csproj.AssemblyReference.cache
+C:\Users\le_si\Documents\Projetos\Testes\BitstampSimulador\BitstampSimulador.Domain\obj\Debug\net6.0\BitstampSimulador.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\le_si\Documents\Projetos\Testes\BitstampSimulador\BitstampSimulador.Domain\obj\Debug\net6.0\BitstampSimulador.Domain.AssemblyInfoInputs.cache
+C:\Users\le_si\Documents\Projetos\Testes\BitstampSimulador\BitstampSimulador.Domain\obj\Debug\net6.0\BitstampSimulador.Domain.AssemblyInfo.cs
+C:\Users\le_si\Documents\Projetos\Testes\BitstampSimulador\BitstampSimulador.Domain\obj\Debug\net6.0\BitstampSimulador.Domain.csproj.CoreCompileInputs.cache
+C:\Users\le_si\Documents\Projetos\Testes\BitstampSimulador\BitstampSimulador.Domain\obj\Debug\net6.0\BitstampSimulador.Domain.dll
+C:\Users\le_si\Documents\Projetos\Testes\BitstampSimulador\BitstampSimulador.Domain\obj\Debug\net6.0\refint\BitstampSimulador.Domain.dll
+C:\Users\le_si\Documents\Projetos\Testes\BitstampSimulador\BitstampSimulador.Domain\obj\Debug\net6.0\BitstampSimulador.Domain.pdb
+C:\Users\le_si\Documents\Projetos\Testes\BitstampSimulador\BitstampSimulador.Domain\obj\Debug\net6.0\ref\BitstampSimulador.Domain.dll

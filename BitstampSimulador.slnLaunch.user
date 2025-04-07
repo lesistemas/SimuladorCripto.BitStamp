@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Novo Perfil",
+    "Projects": [
+      {
+        "Path": "BitstampSimulador.Console\\BitstampSimulador.Console.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "BitstampSimulador.API\\BitstampSimulador.API.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
