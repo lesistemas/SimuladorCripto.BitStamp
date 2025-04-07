@@ -41,22 +41,6 @@ Este projeto implementa um microserviço em .NET 6 com foco em ingestão de dado
 - .NET 6 SDK
 - MongoDB rodando localmente (porta padrão 27017)
 
-### Passo a passo:
-
-```bash
-# Rodar o console
-cd BitstampSimulador.Console
-dotnet run
-
-# Rodar a API
-cd BitstampSimulador.API
-dotnet run
-```
-
-Acesse a API via:
-```
-https://localhost:7049/swagger
-```
 
 ---
 
@@ -95,17 +79,6 @@ A API percorre as ordens (asks/bids) até completar a quantidade e retorna o tot
 
 - Framework: xUnit + Moq
 - Cobertura: 80%+
-- Execução:
-
-```bash
-cd BitstampSimulador.Tests
- dotnet test
-```
-
-Para cobertura:
-```bash
-dotnet test --collect:"Code Coverage"
-```
 
 ---
 
