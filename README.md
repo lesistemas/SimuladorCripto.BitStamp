@@ -1,5 +1,4 @@
-# Corrigindo erro anterior: removendo blocos de código Markdown que causaram erro
-readme_content = """# 📉 SimuladorCripto.BitStamp – Consulta e Análise de Preços Cripto via API
+# 📉 SimuladorCripto.BitStamp – Consulta e Análise de Preços Cripto via API
 
 Sistema em C# que **consome dados em tempo real da API pública da BitStamp** e simula preços de criptomoedas como BTC/USD.  
 Ideal para estudos de integração com **APIs financeiras**, testes de lógica de bots de análise, e coleta de dados para estratégias futuras.
@@ -109,11 +108,3 @@ Substituir abaixo:
 ![REST API](https://img.shields.io/badge/-REST%20API-black?style=flat&logo=api)
 ![Bitcoin](https://img.shields.io/badge/-Bitcoin-F7931A?style=flat&logo=bitcoin&logoColor=white)
 ![BitStamp](https://img.shields.io/badge/-BitStamp-006400?style=flat&logo=data:image/svg+xml;base64,<fake>)
-"""
-
-# Salvando arquivo
-from pathlib import Path
-readme_path = Path("/mnt/data/README_SimuladorCripto.BitStamp.md")
-readme_path.write_text(readme_content, encoding="utf-8")
-
-readme_path.name
