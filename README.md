@@ -39,8 +39,11 @@ Adicionar imagem:
 
 ---
 
+
 ## 📦 Estrutura do Projeto
-'
+
+
+```plaintext
 SimuladorCripto.BitStamp/
 ├── src/
 │   ├── BitStampPrecoService.cs
@@ -48,10 +51,8 @@ SimuladorCripto.BitStamp/
 │   └── Simulador.cs
 ├── imagens/
 │   └── exemplo-console.png
-├── README.md
-'
----
-
+└── README.md
+```
 ## 📸 Exemplo de Retorno da API
 
 {
@@ -97,7 +98,7 @@ Substituir abaixo:
 ## 📫 Contato
 
 📧 Email: leandrofarias.dev@gmail.com  
-💼 LinkedIn: [linkedin.com/in/leandrofarias-dev](https://linkedin.com/in/leandrofarias-dev)  
+💼 LinkedIn: [linkedin.com/in/leandrofarias-dev](https://www.linkedin.com/in/leandro-farias-40a162286/)  
 🔗 GitHub: [github.com/lesistemas](https://github.com/lesistemas)  
 📍 Local: Brasil — disponível para projetos remotos
 
