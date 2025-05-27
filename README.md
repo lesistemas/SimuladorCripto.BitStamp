@@ -39,8 +39,8 @@ Adicionar imagem:
 
 ---
 
-## 📦 Estrutura Sugerida do Projeto
-
+## 📦 Estrutura do Projeto
+'
 SimuladorCripto.BitStamp/
 ├── src/
 │   ├── BitStampPrecoService.cs
@@ -49,7 +49,7 @@ SimuladorCripto.BitStamp/
 ├── imagens/
 │   └── exemplo-console.png
 ├── README.md
-
+'
 ---
 
 ## 📸 Exemplo de Retorno da API
