@@ -55,6 +55,7 @@ SimuladorCripto.BitStamp/
 ```
 ## 📸 Exemplo de Retorno da API
 
+```json  
 {
   "high": "68943.00",
   "last": "68012.00",
@@ -62,7 +63,7 @@ SimuladorCripto.BitStamp/
   "bid": "68011.99",
   "ask": "68016.00"
 }
-
+```
 <!-- 🔷 PRINT DO CONSOLE (opcional)
 Exibir o resultado real no console C# após consumir a API.
 Substituir abaixo:
