@@ -1,7 +1,7 @@
 # 📉 SimuladorCripto.BitStamp – Consulta e Análise de Preços Cripto via API
 
 Sistema em C# que **consome dados em tempo real da API pública da BitStamp** e simula preços de criptomoedas como BTC/USD.  
-Ideal para estudos de integração com **APIs financeiras**, testes de lógica de bots de análise, e coleta de dados para estratégias futuras.
+Ideal para estudos com APIs de mercado financeiro, testes de lógica de bots, e análise técnica baseada em dados reais.
 
 > 💡 Projeto leve e real para mostrar domínio técnico em APIs REST, JSON parsing e simulações com base em dados de mercado.
 
